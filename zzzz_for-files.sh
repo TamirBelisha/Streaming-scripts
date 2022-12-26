@@ -11,4 +11,4 @@ for file in ./*; do
   bash "zzz_create-vod-hls.sh" "./${file}.mp4" "./${file}"
 done
 
-echo "Done - myScript/"
+echo "Done - zzzz_for-files"
