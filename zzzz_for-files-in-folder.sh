@@ -14,4 +14,4 @@ for folder in ./*; do
   done 
 done
 
-echo "Done - myScript/"
+echo "Done - zzzz_for-files-in-folder"
